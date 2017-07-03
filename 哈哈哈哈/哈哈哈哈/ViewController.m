@@ -17,15 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
-    
     self.view.backgroundColor = [UIColor redColor];
     self.view.backgroundColor = [UIColor redColor];
-    self.view.backgroundColor = [UIColor redColor];
-    self.view.backgroundColor = [UIColor redColor];
-    self.view.backgroundColor = [UIColor redColor];
-    UIButton * but = [[UIButton alloc]init];
-    //132132323123
+    self.view.backgroundColor = [UIColor blueColor];
     
 }
 
